@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f34b7d;width: 40.365%;" class="progress-item"></span><span style="background-color: #555555;width: 20.623%;" class="progress-item"></span><span style="background-color: #3572A5;width: 12.651%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.835%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.633%;" class="progress-item"></span><span style="background-color: #3D6117;width: 3.438%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.594%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.304%;" class="progress-item"></span><span style="background-color: #6866fb;width: 1.285%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.980%;" class="progress-item"></span><span style="background-color: #355570;width: 0.970%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.963%;" class="progress-item"></span><span style="background-color: #663399;width: 0.877%;" class="progress-item"></span><span style="background-color: #239dad;width: 0.759%;" class="progress-item"></span><span style="background-color: #b2b7f8;width: 0.681%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.417%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.329%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.256%;" class="progress-item"></span><span style="background-color: #000000;width: 0.212%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.153%;" class="progress-item"></span><span style="background-color: #178600;width: 0.143%;" class="progress-item"></span><span style="background-color: #427819;width: 0.123%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 0.092%;" class="progress-item"></span><span style="background-color: #dd1100;width: 0.083%;" class="progress-item"></span><span style="background-color: #04133b;width: 0.076%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.073%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.054%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.009%;" class="progress-item"></span><span style="background-color: #000080;width: 0.007%;" class="progress-item"></span><span style="background-color: #000000;width: 0.005%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.004%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.002%;" class="progress-item"></span><span style="background-color: #dbb284;width: 0.002%;" class="progress-item"></span><span style="background-color: #DAE1C2;width: 0.002%;" class="progress-item"></span><span style="background-color: #478CBF;width: 0.002%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #f34b7d;width: 39.918%;" class="progress-item"></span><span style="background-color: #555555;width: 20.667%;" class="progress-item"></span><span style="background-color: #3572A5;width: 13.058%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.804%;" class="progress-item"></span><span style="background-color: #89e051;width: 3.592%;" class="progress-item"></span><span style="background-color: #3D6117;width: 3.400%;" class="progress-item"></span><span style="background-color: #3178c6;width: 2.565%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.324%;" class="progress-item"></span><span style="background-color: #6866fb;width: 1.270%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.969%;" class="progress-item"></span><span style="background-color: #355570;width: 0.960%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.952%;" class="progress-item"></span><span style="background-color: #663399;width: 0.867%;" class="progress-item"></span><span style="background-color: #239dad;width: 0.767%;" class="progress-item"></span><span style="background-color: #b2b7f8;width: 0.673%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.412%;" class="progress-item"></span><span style="background-color: #000000;width: 0.391%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.325%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.253%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.151%;" class="progress-item"></span><span style="background-color: #178600;width: 0.141%;" class="progress-item"></span><span style="background-color: #427819;width: 0.121%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 0.091%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.083%;" class="progress-item"></span><span style="background-color: #dd1100;width: 0.082%;" class="progress-item"></span><span style="background-color: #04133b;width: 0.075%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.054%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.009%;" class="progress-item"></span><span style="background-color: #000080;width: 0.007%;" class="progress-item"></span><span style="background-color: #000000;width: 0.005%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.004%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.002%;" class="progress-item"></span><span style="background-color: #dbb284;width: 0.002%;" class="progress-item"></span><span style="background-color: #DAE1C2;width: 0.002%;" class="progress-item"></span><span style="background-color: #478CBF;width: 0.002%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C++</span>
-<span class="percent">40.36%</span>
+<span class="percent">39.92%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C</span>
-<span class="percent">20.62%</span>
+<span class="percent">20.67%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">12.65%</span>
+<span class="percent">13.06%</span>
 </li>
 
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">6.83%</span>
+<span class="percent">6.80%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">3.63%</span>
+<span class="percent">3.59%</span>
 </li>
 
 
@@ -189,7 +189,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TeX</span>
-<span class="percent">3.44%</span>
+<span class="percent">3.40%</span>
 </li>
 
 
@@ -198,7 +198,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">2.59%</span>
+<span class="percent">2.57%</span>
 </li>
 
 
@@ -207,7 +207,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">1.30%</span>
+<span class="percent">1.32%</span>
 </li>
 
 
@@ -216,7 +216,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Objective-C++</span>
-<span class="percent">1.28%</span>
+<span class="percent">1.27%</span>
 </li>
 
 
@@ -225,7 +225,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">GLSL</span>
-<span class="percent">0.98%</span>
+<span class="percent">0.97%</span>
 </li>
 
 
@@ -234,7 +234,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">GDScript</span>
-<span class="percent">0.97%</span>
+<span class="percent">0.96%</span>
 </li>
 
 
@@ -243,7 +243,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CMake</span>
-<span class="percent">0.96%</span>
+<span class="percent">0.95%</span>
 </li>
 
 
@@ -252,7 +252,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">0.88%</span>
+<span class="percent">0.87%</span>
 </li>
 
 
@@ -261,7 +261,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Typst</span>
-<span class="percent">0.76%</span>
+<span class="percent">0.77%</span>
 </li>
 
 
@@ -270,7 +270,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Verilog</span>
-<span class="percent">0.68%</span>
+<span class="percent">0.67%</span>
 </li>
 
 
@@ -279,11 +279,20 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Objective-C</span>
-<span class="percent">0.42%</span>
+<span class="percent">0.41%</span>
 </li>
 
 
 <li style="animation-delay: 2400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Sage</span>
+<span class="percent">0.39%</span>
+</li>
+
+
+<li style="animation-delay: 2550ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -292,21 +301,12 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 2550ms;">
+<li style="animation-delay: 2700ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#199f4b;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Vim Script</span>
-<span class="percent">0.26%</span>
-</li>
-
-
-<li style="animation-delay: 2700ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Sage</span>
-<span class="percent">0.21%</span>
+<span class="percent">0.25%</span>
 </li>
 
 
@@ -347,6 +347,15 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 3450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dockerfile</span>
+<span class="percent">0.08%</span>
+</li>
+
+
+<li style="animation-delay: 3600ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dd1100;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
@@ -355,20 +364,11 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 </li>
 
 
-<li style="animation-delay: 3600ms;">
+<li style="animation-delay: 3750ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#04133b;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">WebAssembly</span>
-<span class="percent">0.08%</span>
-</li>
-
-
-<li style="animation-delay: 3750ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Dockerfile</span>
 <span class="percent">0.07%</span>
 </li>
 
